@@ -1,0 +1,82 @@
+<option>Adabor</option>
+<option>Agargaon</option>
+<option>Azimpur</option>
+<option>Badda</option>
+<option>Banani</option>
+<option>Banashree</option>
+<option>Banglabazar</option>
+<option>Banglamotor</option>
+<option>Bangshal</option>
+<option>Baridhara</option>
+<option>Basabo</option>
+<option>Bashundhara</option>
+<option>Cantonment</option>
+<option>Demra</option>
+<option>Dhakhinkhan</option>
+<option>Dhanmondi</option>
+<option>Dohar</option>
+<option>DOHS Banani</option>
+<option>DOHS Baridhara</option>
+<option>DOHS Mirpur</option>
+<option>DOHS Mohakhali</option>
+<option>Elephent Road</option>
+<option>Faridpur</option>
+<option>Farmgate</option>
+<option>Gazipur</option>
+<option>Gopalganj</option>
+<option>Greenroad</option>
+<option>Gulshan 1</option>
+<option>Gulshan 2</option>
+<option>Islampur</option>
+<option>Jamalpur</option>
+<option>Jatrabari</option>
+<option>Kafrul</option>
+<option>Kakrail</option>
+<option>Kalabagan</option>
+<option>Kallaynpur</option>
+<option>Kawran Bazar</option>
+<option>Kazipara</option>
+<option>Keraniganj</option>
+<option>Khilgaon</option>
+<option>Khilkhet</option>
+<option>Kishoreganj</option>
+<option>Kuril</option>
+<option>Lalmatia</option>
+<option>Madaripur</option>
+<option>Malibagh</option>
+<option>Manikganj</option>
+<option>Mirpur</option>
+<option>Moghbazar</option>
+<option>Mohakhali</option>
+<option>Mohammadpur</option>
+<option>Motijheel</option>
+<option>Munshiganj</option>
+<option>Mymensingh</option>
+<option>Narayanganj</option>
+<option>Narsingdi</option>
+<option>Nawabganj</option>
+<option>Netrokona</option>
+<option>Newmarket</option>
+<option>Niketan</option>
+<option>Nikunja</option>
+<option>Pallabi</option>
+<option>Palton</option>
+<option>Panthapath</option>
+<option>Purbachal</option>
+<option>Ramna</option>
+<option>Rampura</option>
+<option>Sahajadpur</option>
+<option>Savar</option>
+<option>Segunbaghicha</option>
+<option>Shahbag</option>
+<option>Shamoly</option>
+<option>Shantinagar</option>
+<option>Shariatpur</option>
+<option>Sherpur</option>
+<option>Shewrapara</option>
+<option>Tangail</option>
+<option>Tejgaon</option>
+<option>Tongi</option>
+<option>Uttara</option>
+<option>Uttarkhan</option>
+<option>Wari</option>

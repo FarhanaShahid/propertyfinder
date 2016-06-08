@@ -1,0 +1,8 @@
+<option>Dinajpur</option>
+<option>Gaibandha</option>
+<option>Kurigram</option>
+<option>Lalmonirhat</option>
+<option>Nilphamari</option>
+<option>Panchagarh</option>
+<option>Rangpur Sadar</option>
+<option>Thakurgaon</option>

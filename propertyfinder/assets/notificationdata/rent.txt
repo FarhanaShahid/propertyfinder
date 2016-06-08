@@ -1,0 +1,9 @@
+<option>Residential Apartment</option>
+<option>Apartment for Office</option>
+<option>Commercial Building</option>
+<option>Shop</option>
+<option>Warehouse</option>
+<option>Independent House</option>
+<option>Sublet with Family</option>
+<option>Roommate</option>
+<option>Garage</option>

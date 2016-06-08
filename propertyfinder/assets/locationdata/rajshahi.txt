@@ -1,0 +1,8 @@
+<option>Bogra</option>
+<option>Joypurhat</option>
+<option>Naogaon</option>
+<option>Natore</option>
+<option>Nawabganj</option>
+<option>Pabna</option>
+<option>Rajshahi Sadar</option>
+<option>Sirajganj</option>

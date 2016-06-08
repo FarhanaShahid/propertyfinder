@@ -1,0 +1,10 @@
+<option>Bagerhat</option>
+<option>Chuadanga</option>
+<option>Jessore</option>
+<option>Jhenaidah</option>
+<option>Khulna Sadar</option>
+<option>Kushtia</option>
+<option>Magura</option>
+<option>Meherpur</option>
+<option>Narail</option>
+<option>Satkhira</option>
